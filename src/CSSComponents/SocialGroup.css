@@ -1,0 +1,26 @@
+.twitter {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    z-index: 1;
+    top: 6000px;
+    left: 1100px;
+}
+
+.facebook {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 1000px;
+    top: 6000px;
+    z-index: 1;
+}
+
+.instagram {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 1200px;
+    top: 6000px;
+    z-index: 1;
+}
